@@ -1,0 +1,12 @@
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/dao/WidgetRepository.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/config/CassandraConfig.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/domain/Widget.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/dao/OwnerRepository.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/dao/OwnerWidgetCountRepository.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/domain/Owner.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/controller/OwnerController.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/controller/WidgetController.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/domain/OwnerWidgetCount.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/CassandraPaging.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/controller/OwnerWidgetCounterController.java
+/Users/govindkalyankar/Documents/workspace-sts-3.7.2.RELEASE/widgetApplication/src/main/java/com/cassandra/widget/WidgetApplication.java

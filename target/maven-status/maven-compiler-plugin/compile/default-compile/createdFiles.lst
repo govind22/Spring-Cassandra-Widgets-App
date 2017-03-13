@@ -1,0 +1,12 @@
+com/cassandra/widget/controller/OwnerWidgetCounterController.class
+com/cassandra/widget/config/CassandraConfig.class
+com/cassandra/widget/dao/OwnerWidgetCountRepository.class
+com/cassandra/widget/controller/OwnerController.class
+com/cassandra/widget/domain/Owner.class
+com/cassandra/widget/domain/Widget.class
+com/cassandra/widget/domain/OwnerWidgetCount.class
+com/cassandra/widget/dao/OwnerRepository.class
+com/cassandra/widget/dao/WidgetRepository.class
+com/cassandra/widget/WidgetApplication.class
+com/cassandra/widget/CassandraPaging.class
+com/cassandra/widget/controller/WidgetController.class
